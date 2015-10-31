@@ -1,11 +1,13 @@
 ## Project Nname
+
 **Description：**
+
 **URL：**
-#####Directory
-     Project Nname/
+
+##### Directory
+     ProjectName/
 	 ├── ......
-     ├── Documents      # 项目相关文档
-     ├── .gitignore
+     ├── Documents      # 项目文档
+     ├── .gitignore     # 忽略文件
 	 ├── changelog.md   # 版本更新
-     ├── ProjectNname.sln
 	 └── README.md      # 自述文件
